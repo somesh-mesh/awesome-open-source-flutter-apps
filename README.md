@@ -101,6 +101,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | MyOllama | [Link](https://github.com/bipark/my_ollama_app) | Ollama-based LLM mobile client |
 | Simple ChatGPT | [Link](https://github.com/SnowStar0423/ChatGPT-Flutter-App) | ChatGPT like app in Flutter |
 | Story Generator | [Link](https://github.com/Lord-Chris/story-generator) | A mobile app that generates random stories based on user input using Google Generative AI |
+| Deepie | [Link](https://github.com/somesh-mesh/deepie) | A cross-platform mobile application integrated with DeepSeek via Ollama and AnythingLLM, leveraging a Node.js backend for API development and orchestration.|
 
 ### Personal Finance
 
